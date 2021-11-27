@@ -19,6 +19,7 @@
 
 # RStudio files
 .Rproj.user/
+dnd_combat_simulator.Rproj
 
 # produced vignettes
 vignettes/*.html
